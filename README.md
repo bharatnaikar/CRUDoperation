@@ -25,12 +25,6 @@ Before running the project, make sure you have the following:
 - **IDE**: (Optional but recommended) IntelliJ IDEA, Eclipse, or NetBeans for easy project management.
 - **JDBC Driver**: MySQL JDBC driver added to the project.
 
-## Setup Instructions
-
-### 1. Clone the Repository
-To get started, clone the repository to your local machine:
-```bash
-git clone https://github.com/bharatnaikar/CRUDoperation.git
 ## Project Overview
 
 The **CRUD Operations** application allows the management of student records with the following features:
@@ -38,3 +32,9 @@ The **CRUD Operations** application allows the management of student records wit
 2. **View Students** – View all student records stored in the database.
 3. **Update Student** – Update the details of an existing student.
 4. **Delete Student** – Remove a student from the database.
+## Setup Instructions
+
+### 1. Clone the Repository
+To get started, clone the repository to your local machine:
+```bash
+git clone https://github.com/bharatnaikar/CRUDoperation.git
