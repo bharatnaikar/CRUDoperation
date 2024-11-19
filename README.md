@@ -31,3 +31,10 @@ Before running the project, make sure you have the following:
 To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/bharatnaikar/CRUDoperation.git
+## Project Overview
+
+The **CRUD Operations** application allows the management of student records with the following features:
+1. **Add a Student** – Add a new student's details.
+2. **View Students** – View all student records stored in the database.
+3. **Update Student** – Update the details of an existing student.
+4. **Delete Student** – Remove a student from the database.
